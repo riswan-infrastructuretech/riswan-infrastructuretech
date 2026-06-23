@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Riswan
 
-<!--
-**riswan-infrastructuretech/riswan-infrastructuretech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Infrastructure Engineer with 16+ years of experience.
 
-Here are some ideas to get you started:
+## Core Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Windows Server
+- Active Directory
+- MikroTik RouterOS
+- Linux Administration
+- Proxmox VE
+- TrueNAS
+- VPN Infrastructure
+- Network Engineering
+
+## Looking For
+
+Remote opportunities in:
+
+- Infrastructure Engineering
+- System Administration
+- Network Administration
+- IT Operations
+
+## Contact
+
+LinkedIn: ...
+Portfolio: ...
+Email: ...
